@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@react-native-community/cli": "latest",
     "@supabase/supabase-js": "^2.49.1",
     "react-native-camera": "^4.2.1",
     "react-navigation": "^4.4.4",
